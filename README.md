@@ -8,3 +8,4 @@ an A* algorithm that can solve any rush-hour board
 -Future plans-
 
 -I plan to improve the efficiency of this algorithm by swapping out a few lists for sets.
+-allow for relative file path input
